@@ -2,6 +2,10 @@
 
 You can add button inside [ListViewItem](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.ListViewItem.html) and handle both ItemTapped and Button click action in Xamarin.Forms [SfListView](https://help.syncfusion.com/xamarin/listview/overview).
 
+You can also refer the followig article.
+
+https://www.syncfusion.com/kb/11713/how-to-handle-click-action-with-tap-command-in-xamarin-forms-listview-sflistview
+
 **XAML**
 
 Load Button control inside the [SfListView.ItemTemplate](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~ItemTemplate.html) and bind [SfListView.TapCommand](https://help.syncfusion.com/cr/cref_files/xamarin/Syncfusion.SfListView.XForms~Syncfusion.ListView.XForms.SfListView~TapCommand.html) and [Button.Command](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/button#using-the-command-interface).
